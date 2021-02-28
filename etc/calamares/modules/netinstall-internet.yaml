@@ -1,0 +1,26 @@
+- name: "Internet"
+  description: "Internet software"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - chromium
+    - evolution
+    - falkon
+    - filezilla
+    - firefox-adblock-plus
+    - firefox-i18n-$LOCALE
+    - geary
+    - google-chrome
+    - hexchat
+    - ktorrent
+    - midori
+    - opera
+    - opera-ffmpeg-codecs
+    - qbittorrent
+    - qutebrowser
+    - thunderbird
+    - thunderbird-i18n-de
+    
+    

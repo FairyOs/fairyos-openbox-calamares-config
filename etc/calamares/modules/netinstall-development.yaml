@@ -1,0 +1,20 @@
+- name: "Development"
+  description: "Development software"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - atom
+    - visual-studio-code-bin
+    - code
+    - emacs
+    - geany
+    - geany-plugins
+    - intellij-idea-community-edition
+    - leafpad
+    - notepadqq
+    - openscad
+    - pycharm-community-edition
+    - sublime-text
+    
